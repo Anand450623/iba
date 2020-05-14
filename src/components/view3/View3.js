@@ -1,14 +1,15 @@
 import React from 'react'; 
 
-class Contact extends React.Component 
+class View3 extends React.Component 
 {
     render() {
                 return (
                         <React.Fragment>
-                            <p>Inside ContactUs component...</p>
+                            <h1>Branch Dynamic Vu-3</h1>
+                            <h2>Inside View3</h2>
                         </React.Fragment>
                     )
             }
 }
 
-export default Contact;
+export default View3;
